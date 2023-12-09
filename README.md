@@ -14,7 +14,7 @@ This Flutter project is an implementation of a design inspired by Dribbble, show
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/dribbble-design-flutter.git
+    git clone https://github.com/SultanNoorudDin/dribbble-design-flutter.git
     ```
 
 2. Navigate to the project directory:
